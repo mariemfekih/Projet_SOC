@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<items>
+
+<item>
+<labelle>شارع</labelle><accidents>1581</accidents><tues>144</tues><blesses>1950</blesses>
+</item>
+<item>
+<labelle>داخل تجمع سكني</labelle><accidents>1078</accidents><tues>167</tues><blesses>1399</blesses>
+</item>
+<item>
+<labelle>وطنية</labelle><accidents>536</accidents><tues>281</tues><blesses>978</blesses>
+</item>
+<item>
+<labelle>محلية</labelle><accidents>479</accidents><tues>176</tues><blesses>696</blesses>
+</item>
+<item>
+<labelle>نهج</labelle><accidents>442</accidents><tues>28</tues><blesses>501</blesses>
+</item>
+<item>
+<labelle>جهوية</labelle><accidents>418</accidents><tues>174</tues><blesses>687</blesses>
+</item>
+<item>
+<labelle>مفترق</labelle><accidents>307</accidents><tues>37</tues><blesses>423</blesses>
+</item>
+<item>
+<labelle>سيارة</labelle><accidents>111</accidents><tues>51</tues><blesses>236</blesses>
+</item>
+<item>
+<labelle>حزامية</labelle><accidents>65</accidents><tues>23</tues><blesses>83</blesses>
+</item>
+<item>
+<labelle>سريعة</labelle><accidents>50</accidents><tues>11</tues><blesses>64</blesses>
+</item>
+</items>
